@@ -10,7 +10,7 @@ namespace tr01app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("tr01-v2");
+            Console.WriteLine("tr01-v3");
         }
     }
 }
